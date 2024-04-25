@@ -22,7 +22,8 @@ public class AplicacionExamen {
         String tipoBarco;
         boolean exito;
 
-        System.out.println("Javier Bustamante esta iniciando este programa");
+        System.out.println("Javier Bustamante esta viendo el código de este programa");
+        System.out.println("Samuel Vergara esta añadiendo una nueva linea");
         //Bucle para el menu
         do{
             System.out.println("MENU DE OPCIONES \n" +
